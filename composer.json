@@ -1,4 +1,13 @@
 {
+    "name": "yuanchao/pdd-union-php-sdk",
+    "description": "pdd-union-php-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuanchao",
+            "email": "653069653@qq.com"
+        }
+    ],
     "require": {
         "php": "^5.5|^7.0",
         "ext-curl": "*",
